@@ -1,6 +1,8 @@
 # DetailLayout
 
 
+  
+  
   <com.brkcnszgn.detail_layout.DetailFabLayout
             android:id="@+id/fabtoolbar"
             android:layout_width="match_parent"
